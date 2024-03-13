@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+body {
+    background-color: rgb(130, 233, 174);
+}
+
+header {
+    width: 100%;
+    font-family: "Kode Mono", monospace;
+    font-style: normal;
+    font-optical-sizing: auto;
+}
+
+.presentacion {
+ 
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    margin: 30px;
+}
+
+.textopp {
+
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 30px;
+    align-items: center;
+}
+.aprender {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    margin: 30px;
+}
+
+.textap{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+
+}
+.Recuerda {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.textolearn {
+    display: flex;
+    justify-content: center;
+    padding: auto;
+}
+.porqueaprender{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.plataformas {
+    display: flex;
+    justify-content: center;
+    padding: 30px;   
+}
+img {
+    width: 200px;
+}
+
+.carousel {
+    width: 100%;
+
+}
+.carousel-item img {
+    object-position: center;
+}
+header ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+header ul li{
+    margin: 10px;
+}
